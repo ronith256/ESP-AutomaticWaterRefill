@@ -4,7 +4,6 @@
 
 //define sound speed in cm/uS
 #define SOUND_SPEED 0.034
-#define CM_TO_INCH 0.393701
 
 long duration;
 float distanceCm;
